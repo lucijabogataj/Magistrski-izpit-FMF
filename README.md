@@ -1,6 +1,6 @@
 # Magistrski-izpit-FMF
 
-Učenje za magistrski izpit na programu Pedagoška matematika na FMF vzame precej časa, ker je treba ponoviti kar veliko predmetov. Izpit je usten, traja približno eno uro, skozi katero dobiš tri vprašanja, po eno iz sklopov analize, algebre in geometrije. Za analizo je treba ponoviti večino snovi predmetov Analiza 1, 2a, 2b, 3. Za algebro predmete Algebra 1, 2, Elementarna teorija števil. Za geometrijo pa Elementarno geometrijo in Afino in projektivno geometrijo. Seznam možnih vrašanj je objavljen (tudi na tem repozitoriju).
+Učenje za magistrski izpit na programu Pedagoška matematika na FMF vzame precej časa, ker je treba ponoviti kar veliko predmetov. Izpit je usten, traja približno eno uro, skozi katero dobiš tri vprašanja, po eno iz sklopov analize, algebre in geometrije. Za analizo je treba ponoviti večino snovi predmetov Analiza 1, 2a, 2b, 3. Za algebro predmete Algebra 1, 2, Elementarna teorija števil. Za geometrijo pa Elementarno geometrijo in Afino in projektivno geometrijo. Seznam možnih vprašanj je objavljen (tudi na tem repozitoriju).
 
 Ob ponavljanju snovi sem si jaz izdelala listke z zapiski, ki sem jih uporabljala potem v zadnjih tednih in dneh za ponovitev glavnih stvari. Prej sem ponavljala snov, prebrala tudi dokaze, izpeljave ... v zaključku priprave pa to ni več možno, ker je snovi preveč. Niso mišljeni kot gradivo za predelovanje snovi, ampak le kot povzetek za osvežitev glavnih stvari. 
 
